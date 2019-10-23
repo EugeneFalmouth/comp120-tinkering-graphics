@@ -1,2 +1,4 @@
-# comp120-tinkering-graphics
-Python Code for Re-purposing Graphics Algorithms
+# COMP120 Tinkering Graphics Assignment
+## Python Code for Contract 5 - Colour Blindness User Interface Analysis Tool
+
+Prepared by Jevgenijus [EugeneFalmouth](https://github.com/EugeneFalmouth) Syrickis
